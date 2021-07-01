@@ -1,5 +1,4 @@
-# Copyleft (c) 2020 Mr.Miss, All wrongs reserved.
-#
+
 # Redistribution and use in source with or
 # without modufication, are permitted.
 
@@ -26,7 +25,7 @@ tutor = """
 """
 
 template = """
-UserBot support: @userbotindo
+Don't Pass this string to any other Person or Bot carelessly.
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
